@@ -1,0 +1,22 @@
+baseURL: ''
+languageCode: en-us
+title: Keit's blog
+theme: PaperMod
+
+#Hero section ↓
+params:
+    homeInfoParams:
+        Title: Hi, I'm Keit 👋
+        Content: Sharing chunks of texts since 2022.
+
+#Menu section ↓
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /Archives/
+      weight: 20
