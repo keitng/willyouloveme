@@ -20,4 +20,4 @@ My interests: **Sở thích:**
 - Languages **Ngôn ngữ**
 - Nihilism **Hư vô**
 
-I'm a hectic INFP who's prone to go nuts. Nice to meet you! **Một kẻ INFP bị điên. Thương mến!**
+I'm a hectic INFP who's prone to go nuts. Nice to meet you! **Một kẻ INFP bất ổn. Chào bạn!**

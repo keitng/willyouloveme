@@ -5,7 +5,7 @@ draft: false
 tags: ["tiengviet","ux"]
 ---
 
->Vào tháng 5/2022, mình đã hoàn thành khóa 1 của Google UX design trên Coursera. Và đây là note của mình (nguyên văn tiếng Anh).
+>Vào tháng 5/2022, mình đã hoàn thành khóa 1 của Google UX design trên Coursera. Và đây là note của mình ở Week 1 (nguyên văn Introducing UX Design).
 
 # Thiết kế UX là gì?
 
