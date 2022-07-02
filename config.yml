@@ -28,7 +28,7 @@ menu:
       name: Archives
       url: /Archives/
       weight: 20
-    - identifier: about
-      name: About
-      url: /About/
-      weight: 30
+    # - identifier: about
+    #   name: About
+    #   url: /About/
+    #   weight: 30
